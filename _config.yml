@@ -1,0 +1,7 @@
+title: "ListMeUp! Policies"
+description: "Privacy Policy and Terms & Conditions for the ListMeUp! app"
+theme: jekyll-theme-minimal
+
+header_pages:
+  - privacy-policy.md
+  - terms-and-conditions.md
